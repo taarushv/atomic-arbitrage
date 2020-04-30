@@ -1,0 +1,11 @@
+{
+  "name": "flashboys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
+    "ethers": "^4.0.47",
+    "web3": "^1.2.7"
+  }
+}
