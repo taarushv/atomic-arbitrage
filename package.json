@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "UNLICENSED",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.0.1",
+    "@openzeppelin/contracts": "^4.7.2",
     "ethers": "^4.0.47",
     "web3": "^1.2.7"
   }
